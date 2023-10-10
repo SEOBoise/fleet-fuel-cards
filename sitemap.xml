@@ -1,15 +1,237 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-        <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-           <sitemap>
-
-              <loc>https://fleet-fuel-card.com/sitemap_page.xml</loc>
-
-              <lastmod>2023-09-16 00:44:30</lastmod>
-
-           </sitemap>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 
+<url>
+  <loc>https://fleet-fuel-card.com/</loc>
+  <lastmod>2023-10-10T22:20:50+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://fleet-fuel-card.com/do-fleet-cards-build-credit</loc>
+  <lastmod>2023-10-10T22:20:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fleet-fuel-card.com/what-are-the-benefits-of-fleet-accounts</loc>
+  <lastmod>2023-10-10T22:20:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fleet-fuel-card.com/are-fleet-gas-cards-worth-it</loc>
+  <lastmod>2023-10-10T22:20:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fleet-fuel-card.com/what-fuel-card-can-be-used-anywhere</loc>
+  <lastmod>2023-10-10T22:20:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fleet-fuel-card.com/what-is-the-easiest-fuel-card-to-get</loc>
+  <lastmod>2023-10-10T22:20:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fleet-fuel-card.com/what-companies-use-fuel-cards</loc>
+  <lastmod>2023-10-10T22:20:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fleet-fuel-card.com/what-is-the-best-fuel-card-to-use</loc>
+  <lastmod>2023-10-10T22:20:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fleet-fuel-card.com/are-fleet-cards-worth-it</loc>
+  <lastmod>2023-10-10T22:20:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fleet-fuel-card.com/what-fleet-cards-have-no-monthly-fees</loc>
+  <lastmod>2023-10-10T22:20:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fleet-fuel-card.com/can-i-withdraw-money-from-wex-card</loc>
+  <lastmod>2023-10-10T22:20:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fleet-fuel-card.com/does-wex-fuel-card-have-a-monthly-fee</loc>
+  <lastmod>2023-10-10T22:20:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fleet-fuel-card.com/can-i-use-my-wex-card-anywhere</loc>
+  <lastmod>2023-10-10T22:20:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fleet-fuel-card.com/what-is-the-wex-fuel-card-used-for</loc>
+  <lastmod>2023-10-10T22:20:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fleet-fuel-card.com/what-are-the-benefits-of-a-fleet-fuel-card</loc>
+  <lastmod>2023-10-10T22:20:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fleet-fuel-card.com/what-is-the-difference-between-a-fuel-card-and-a-fleet-card</loc>
+  <lastmod>2023-10-10T22:20:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fleet-fuel-card.com/what-is-a-fleet-fuel-card</loc>
+  <lastmod>2023-10-10T22:20:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fleet-fuel-card.com/what-is-the-best-fuel-card-for-fleet</loc>
+  <lastmod>2023-10-10T22:20:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fleet-fuel-card.com/terms</loc>
+  <lastmod>2023-10-10T22:20:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fleet-fuel-card.com/privacy</loc>
+  <lastmod>2023-10-10T22:20:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fleet-fuel-card.com/sitemap</loc>
+  <lastmod>2023-10-10T22:20:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fleet-fuel-card.com/contact.html</loc>
+  <lastmod>2023-10-10T22:20:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fleet-fuel-card.com/sitemap_page</loc>
+  <lastmod>2023-10-10T22:20:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://fleet-fuel-card.com/https://fleet-fuel-card.com</loc>
+  <lastmod>2023-10-10T22:20:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://fleet-fuel-card.com/https:/do-fleet-cards-build-credit.html</loc>
+  <lastmod>2023-10-10T22:20:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://fleet-fuel-card.com/https:/what-are-the-benefits-of-fleet-accounts.html</loc>
+  <lastmod>2023-10-10T22:20:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://fleet-fuel-card.com/https:/are-fleet-gas-cards-worth-it.html</loc>
+  <lastmod>2023-10-10T22:20:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://fleet-fuel-card.com/https:/what-fuel-card-can-be-used-anywhere.html</loc>
+  <lastmod>2023-10-10T22:20:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://fleet-fuel-card.com/https:/what-is-the-easiest-fuel-card-to-get.html</loc>
+  <lastmod>2023-10-10T22:20:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://fleet-fuel-card.com/https:/what-companies-use-fuel-cards.html</loc>
+  <lastmod>2023-10-10T22:20:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://fleet-fuel-card.com/https:/what-is-the-best-fuel-card-to-use.html</loc>
+  <lastmod>2023-10-10T22:20:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://fleet-fuel-card.com/https:/are-fleet-cards-worth-it.html</loc>
+  <lastmod>2023-10-10T22:20:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://fleet-fuel-card.com/https:/what-fleet-cards-have-no-monthly-fees.html</loc>
+  <lastmod>2023-10-10T22:20:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://fleet-fuel-card.com/https:/can-i-withdraw-money-from-wex-card.html</loc>
+  <lastmod>2023-10-10T22:20:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://fleet-fuel-card.com/https:/does-wex-fuel-card-have-a-monthly-fee.html</loc>
+  <lastmod>2023-10-10T22:20:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://fleet-fuel-card.com/https:/can-i-use-my-wex-card-anywhere.html</loc>
+  <lastmod>2023-10-10T22:20:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://fleet-fuel-card.com/https:/what-is-the-wex-fuel-card-used-for.html</loc>
+  <lastmod>2023-10-10T22:20:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://fleet-fuel-card.com/https:/what-are-the-benefits-of-a-fleet-fuel-card.html</loc>
+  <lastmod>2023-10-10T22:20:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://fleet-fuel-card.com/https:/what-is-the-difference-between-a-fuel-card-and-a-fleet-card.html</loc>
+  <lastmod>2023-10-10T22:20:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://fleet-fuel-card.com/https:/what-is-a-fleet-fuel-card.html</loc>
+  <lastmod>2023-10-10T22:20:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://fleet-fuel-card.com/https:/what-is-the-best-fuel-card-for-fleet.html</loc>
+  <lastmod>2023-10-10T22:20:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://fleet-fuel-card.com/https:/terms.html</loc>
+  <lastmod>2023-10-10T22:20:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://fleet-fuel-card.com/https:/privacy.html</loc>
+  <lastmod>2023-10-10T22:20:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://fleet-fuel-card.com/https:/sitemap.html</loc>
+  <lastmod>2023-10-10T22:20:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://fleet-fuel-card.com/https:/contact.html</loc>
+  <lastmod>2023-10-10T22:20:50+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
 
-        </sitemapindex>
+
+</urlset>
