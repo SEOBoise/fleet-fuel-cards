@@ -258,6 +258,7 @@ ul.ada_page {
  #preloder {
    position: fixed;
    width: 100%;
+display:none;	 
    height: 100%;
    top: 0;
    left: 0;
